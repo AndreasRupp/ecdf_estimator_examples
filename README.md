@@ -1,9 +1,8 @@
-# ecdf_estimator_examples
+# Welcome to ecdf_estimator_examples!
 
 This repository contains user manuals for [ecdf_estimator](https://github.com/AndreasRupp/ecdf_estimator) Python package with simple examples using normal distribution data. 
 
-## Requirements
-* Python version 3.11.6 or newer
-
 ## Getting Started
-After cloning the repository or downloading the notebooks, the codes can be run with various Python environments. Visual Studio Code with Jupyter extension is recommended. More help can be found at [VSC's documentation for Jupyter Notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+The notebooks can be used on Google Colab by clicking on the link in the beginning of each script.
+
+The codes can also be run with various Python environments after cloning the repository or downloading the notebooks. Visual Studio Code with Jupyter extension is recommended. More help can be found at [VSC's documentation for Jupyter Notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
